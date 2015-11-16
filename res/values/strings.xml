@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeciBel</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Main Activity Start -->
+    <string name="title_activity">声压计</string>
+    <string name="title_table">Real Time Volume(dB)</string>
+    <string name="realtime_hint">%1$.2fdB</string>
+    <string name="info_hint">平均值:%1$.2fdB&#160;&#160;&#160;最大值:%2$.2fdB&#160;&#160;&#160;最小值:%3$.2fdB</string>
+    <string name="read">读取</string>
+    <!-- Main Activity End -->
+
+</resources>
